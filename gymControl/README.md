@@ -9,6 +9,7 @@
 ### Sistema de gestión integral para gimnasios
 
 **Asignatura:** Programación Orientada a Objetos
+
 **Docente:** Wilman Chamba Zaragocín
 
 **Integrantes:**
