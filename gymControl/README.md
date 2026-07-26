@@ -16,7 +16,7 @@
 - Darwin Campoverde
 - Pablo Pineda
 - Galo Benítez
-- 
+- Erick Rogel
 
 **Periodo académico:** 2026
 
