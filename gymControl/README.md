@@ -13,9 +13,9 @@
 **Docente:** Wilman Chamba Zaragocín
 
 **Integrantes:**
-- _________________________________
-- _________________________________
-- _________________________________
+- Darwin Campoverde
+- Pablo Pineda
+- 
 - 
 
 **Periodo académico:** 2026
