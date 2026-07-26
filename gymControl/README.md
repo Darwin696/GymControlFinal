@@ -15,7 +15,7 @@
 **Integrantes:**
 - Darwin Campoverde
 - Pablo Pineda
-- 
+- Galo Benítez
 - 
 
 **Periodo académico:** 2026
